@@ -367,7 +367,7 @@ ai:
 
   api_key: "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"                       # API Key（建议使用环境变量 AI_API_KEY）
   
-  api_base: "https://openrouter.ai/api/v1/chat/completions"                      # 自定义 API 地址（可选，绝大多数情况留空即可）
+  api_base: "https://openrouter.ai/api/v1"                      # 自定义 API 地址（可选，绝大多数情况留空即可）
                                     #
                                     # ❓ 什么时候需要填？
                                     #    当你使用的 AI 服务商不在上方支持列表中时。
